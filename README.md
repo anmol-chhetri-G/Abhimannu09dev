@@ -1,5 +1,5 @@
 # 💫 About Me:
-student in Islington College<br>from Nepal<br>currently ungraduated student<br>IN free time I try to learn different coding languages <br><br>
+student in Islington College<br>from Nepal<br>currently ungraduated student<br>In free time I try to learn different coding languages <br><br>
 
 
 ## 🌐 Socials:
